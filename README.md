@@ -36,8 +36,8 @@
 
 ### 📥 Clone the Repository
 ```sh
-git clone https://github.com/Tayyab3344/MeatSolutions.git
-cd MeatSolutions
+git clone https://github.com/Tayyab3344/MeatSolutions-MERN.git
+cd MeatSolutions-MERN
 ```
 
 ### 🖥️ Backend Setup
